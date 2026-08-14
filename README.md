@@ -1,126 +1,176 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=200&section=header&text=Muhammad%20Ibhaj&fontSize=42&fontColor=ffffff&animation=twinkling)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0A1128,100:11223D&height=220&section=header&text=Muhammad%20Ibhaj&fontSize=48&fontColor=E6EDF7&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20MySQL&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<a href="https://github.com/ibhaj-dev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=CS+Student+%7C+Java+Training+Intern;Core+Java+%26+OOP+Enthusiast;Learning+Data+Structures+%26+Problem+Solving;Exploring+Python" alt="Typing SVG" />
+<br/>
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=6FA8FF&center=true&vCenter=true&width=560&lines=Building+reliable+backend+systems+with+Java;Spring+Boot+%7C+Spring+MVC+%7C+Spring+Data+JPA;Turning+business+logic+into+clean+APIs;Currently+building+%3A+Smart+Cafe+Ordering+System" alt="Typing SVG" />
 </a>
 
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-2563EB?style=for-the-badge&logo=probot&logoColor=white)
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ibhaj-dev&color=2563EB&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/ibhaj-dev?color=2563EB&style=flat-square&label=Followers)
+<img src="https://img.shields.io/badge/Focus-Java%20Backend%20Development-0A1128?style=for-the-badge&labelColor=000000&color=1B3A6B" />
+<img src="https://img.shields.io/badge/Status-CSE%20Student-0A1128?style=for-the-badge&labelColor=000000&color=1B3A6B" />
 
 </div>
 
----
+<br/>
 
-### 👋 Who I Am
+<!-- ================= ABOUT ================= -->
+## <img src="https://img.shields.io/badge/-About%20Me-0A1128?style=flat-square" height="28"/>
 
-```typescript
-const muhammadIbhaj = {
-  title: "CS Student | Java Training Intern",
-  stack: [
-    "Core Java",
-    "Object-Oriented Programming (OOP)",
-    "Data Structures",
-    "Problem Solving",
-    "Python (Beginner)",
-    "MS Office & Computer Fundamentals"
-  ],
-  launchedProjects: ["java-quiz-game", "cafe-management-system-java"],
-  certifications: [], // none listed yet — currently building project experience
-  status: "Entering 3rd year of B.Tech, currently completing a Java training internship",
-  openTo: ["Internships", "Java Developer roles", "Collaborative student projects"]
-};
+<img align="right" width="290" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385fa7dbf1.gif"/>
+
+- 🎓 CSE student focused on **Java Backend Development**
+- 🛠️ Building server-side applications with **Spring Boot, Spring MVC & Spring Data JPA**
+- 🗄️ Comfortable designing relational schemas and queries in **MySQL**
+- 🌐 Working knowledge of **HTML, CSS, JavaScript & Thymeleaf** for full-stack context
+- 🚀 Currently developing my main project — **Smart Cafe Ordering System**
+- 🎯 Career goal: **Software / Java Backend Developer** role
+
+<br clear="right"/>
+
+<!-- ================= TECH STACK ================= -->
+## <img src="https://img.shields.io/badge/-Tech%20Stack-0A1128?style=flat-square" height="28"/>
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**Backend**
+<br/>
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Boot-000000?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
+<img src="https://img.shields.io/badge/Spring%20MVC-000000?style=for-the-badge&logo=spring&logoColor=6DB33F" />
+<img src="https://img.shields.io/badge/Spring%20Data%20JPA-000000?style=for-the-badge&logo=spring&logoColor=6DB33F" />
+
+</td>
+<td valign="top" width="33%">
+
+**Database & Tools**
+<br/>
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Maven-000000?style=for-the-badge&logo=apachemaven&logoColor=C71A36" />
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+
+</td>
+<td valign="top" width="33%">
+
+**Frontend (Supporting)**
+<br/>
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Thymeleaf-000000?style=for-the-badge&logo=thymeleaf&logoColor=005F0F" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ================= CURRENT FOCUS ================= -->
+## <img src="https://img.shields.io/badge/-Currently%20Working%20On-0A1128?style=flat-square" height="28"/>
+
+```java
+public class CurrentFocus {
+
+    private String building   = "Smart Cafe Ordering System";
+    private String[] stack    = {"Spring Boot", "Spring MVC", "Spring Data JPA", "MySQL"};
+    private String strengthening = "Backend architecture & clean API design";
+    private String goal       = "Java Backend Developer role";
+
+}
 ```
 
----
+<br/>
 
-### 🚀 Featured Projects
+<!-- ================= PROJECTS ================= -->
+## <img src="https://img.shields.io/badge/-Featured%20Project-0A1128?style=flat-square" height="28"/>
 
-#### 1. Java Quiz Game
+<div align="center">
 
-A beginner Java console application that conducts a multiple-choice quiz and displays the user's final score.
+<table>
+<tr>
+<td width="100%">
 
-<a href="https://github.com/ibhaj-dev/java-quiz-game">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ibhaj-dev&repo=java-quiz-game&theme=nord&border_color=2563EB" alt="java-quiz-game" />
+### ☕ Smart Cafe Ordering System
+
+A backend-driven ordering system built to handle cafe menu management, order placement and order processing using a layered Spring Boot architecture with MySQL persistence.
+
+<img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Boot-000000?style=flat-square&logo=springboot&logoColor=6DB33F" />
+<img src="https://img.shields.io/badge/Spring%20Data%20JPA-000000?style=flat-square&logo=spring&logoColor=6DB33F" />
+<img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/Thymeleaf-000000?style=flat-square&logo=thymeleaf&logoColor=005F0F" />
+
+<br/><br/>
+
+<a href="https://github.com/YOUR_USERNAME/YOUR_REPO_NAME">
+  <img src="https://img.shields.io/badge/View%20Repository-0A1128?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-| Layer | Technology |
-|---|---|
-| Language | Core Java |
-| Logic | OOP, Conditionals, Loops |
-| Interface | Console (CLI) I/O |
+</td>
+</tr>
+</table>
 
-🔗 [Code](https://github.com/ibhaj-dev/java-quiz-game)
+</div>
 
-#### 2. Cafe Management System (Java)
+<br/>
 
-A beginner Java console application for managing menu items, customer orders, and bill generation.
+<!-- ================= GITHUB STATS ================= -->
+## <img src="https://img.shields.io/badge/-GitHub%20Analytics-0A1128?style=flat-square" height="28"/>
 
-<a href="https://github.com/ibhaj-dev/cafe-management-system-java">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ibhaj-dev&repo=cafe-management-system-java&theme=nord&border_color=2563EB" alt="cafe-management-system-java" />
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&bg_color=00000000&title_color=6FA8FF&icon_color=6FA8FF&text_color=E6EDF7&border_color=1B3A6B&hide_border=false" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&bg_color=00000000&title_color=6FA8FF&text_color=E6EDF7&border_color=1B3A6B&hide_border=false" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&background=00000000&stroke=1B3A6B&ring=6FA8FF&fire=6FA8FF&currStreakLabel=E6EDF7&sideLabels=E6EDF7&dates=6C7A93&border=1B3A6B" />
+
+</div>
+
+<br/>
+
+<!-- ================= CONTRIBUTION GRAPH ================= -->
+## <img src="https://img.shields.io/badge/-Contribution%20Activity-0A1128?style=flat-square" height="28"/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=00000000&color=6FA8FF&line=6FA8FF&point=E6EDF7&area=true&hide_border=true" width="100%" />
+
+</div>
+
+<br/>
+
+<!-- ================= CONTACT ================= -->
+## <img src="https://img.shields.io/badge/-Connect%20With%20Me-0A1128?style=flat-square" height="28"/>
+
+<div align="center">
+
+<a href="mailto:YOUR_EMAIL@example.com">
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-| Layer | Technology |
-|---|---|
-| Language | Core Java |
-| Logic | OOP, Data Structures |
-| Interface | Console (CLI) I/O |
+</div>
 
-🔗 [Code](https://github.com/ibhaj-dev/cafe-management-system-java)
-
----
-
-### 🛠️ Tech Stack
-
-**Languages**
-
-![Skills](https://skillicons.dev/icons?i=java,python)
-
-**Currently strengthening:** Object-Oriented Programming (OOP) · Data Structures · Problem Solving · MS Office & Computer Fundamentals
-
----
-
-### 📊 GitHub Stats
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ibhaj-dev&show_icons=true&theme=nord&border_color=2563EB&title_color=2563EB&icon_color=2563EB&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibhaj-dev&layout=compact&theme=nord&border_color=2563EB&title_color=2563EB&text_color=c9d1d9" alt="Top Languages" height="165"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:11223D,50:0A1128,100:000000&height=120&section=footer" />
 
-<img src="https://streak-stats.demolab.com?user=ibhaj-dev&theme=nord&border=2563EB&ring=2563EB&fire=2563EB" alt="GitHub Streak" />
-
-</div>
-
-### 🏆 Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ibhaj-dev&theme=nord&no-frame=true&no-bg=true&margin-w=10)
+<sub>Thanks for stopping by — always open to backend engineering opportunities.</sub>
 
 </div>
-
-### 📈 Contribution Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ibhaj-dev&theme=react-dark&color=2563EB&line=2563EB&point=ffffff)
-
-</div>
-
----
-
-### 📫 Connect With Me
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/datboii_ibhaj)
-[![Gmail](https://img.shields.io/badge/Gmail-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadibhaj@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/muhammad-ibhaj-2a75a7312)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ibhaj80546)
-
-</div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=150&section=footer&animation=twinkling)
