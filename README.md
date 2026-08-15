@@ -1,176 +1,183 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0A1128,100:11223D&height=220&section=header&text=Muhammad%20Ibhaj&fontSize=48&fontColor=E6EDF7&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20MySQL&descAlignY=58&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:0F1C3F,100:0A0E27&height=220&section=header&text=Muhammad%20Ibhaj&fontSize=52&fontColor=F4B400&fontAlignY=38&desc=Java%20Backend%20Developer&descAlignY=58&descColor=8B9DC3&animation=fadeIn" width="100%"/>
+
+<a href="https://www.linkedin.com/in/muhammad-ibhaj-2a75a7312" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://x.com/ibhaj80546" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/datboii_ibhaj" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:muhammadibhaj@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-F4B400?style=for-the-badge&logo=gmail&logoColor=0A0E27" />
+</a>
 
 <br/>
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=6FA8FF&center=true&vCenter=true&width=560&lines=Building+reliable+backend+systems+with+Java;Spring+Boot+%7C+Spring+MVC+%7C+Spring+Data+JPA;Turning+business+logic+into+clean+APIs;Currently+building+%3A+Smart+Cafe+Ordering+System" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Focus-Java%20Backend%20Development-0A1128?style=for-the-badge&labelColor=000000&color=1B3A6B" />
-<img src="https://img.shields.io/badge/Status-CSE%20Student-0A1128?style=for-the-badge&labelColor=000000&color=1B3A6B" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=F4B400&center=true&vCenter=true&width=600&lines=Building+backend+systems+with+Java+%26+Spring+Boot;Currently+open+for+internships;Spring+Boot+%7C+MySQL+%7C+REST+APIs" alt="Typing SVG" />
 
 </div>
 
 <br/>
 
-<!-- ================= ABOUT ================= -->
-## <img src="https://img.shields.io/badge/-About%20Me-0A1128?style=flat-square" height="28"/>
+## About Me
 
-<img align="right" width="290" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385fa7dbf1.gif"/>
+I'm a Computer Science undergraduate at **Kunwar Satya Vira College of Engineering & Management, Bijnor** (2024–2028), focused on **Java backend development**. I build server-side applications with **Spring Boot**, **Spring MVC**, and **Spring Data JPA**, backed by MySQL, and I'm comfortable rendering server-side views with Thymeleaf when a project needs a full-stack touch.
 
-- 🎓 CSE student focused on **Java Backend Development**
-- 🛠️ Building server-side applications with **Spring Boot, Spring MVC & Spring Data JPA**
-- 🗄️ Comfortable designing relational schemas and queries in **MySQL**
-- 🌐 Working knowledge of **HTML, CSS, JavaScript & Thymeleaf** for full-stack context
-- 🚀 Currently developing my main project — **Smart Cafe Ordering System**
-- 🎯 Career goal: **Software / Java Backend Developer** role
+I'm currently **open to internship opportunities** in Java backend development.
 
-<br clear="right"/>
+<br/>
 
-<!-- ================= TECH STACK ================= -->
-## <img src="https://img.shields.io/badge/-Tech%20Stack-0A1128?style=flat-square" height="28"/>
+## Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="33%">
+<div align="center">
 
 **Backend**
+
+<img src="https://img.shields.io/badge/Java-0A0E27?style=for-the-badge&logo=openjdk&logoColor=F4B400" />
+<img src="https://img.shields.io/badge/Spring_Boot-0A0E27?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
+<img src="https://img.shields.io/badge/Spring_MVC-0A0E27?style=for-the-badge&logo=spring&logoColor=6DB33F" />
+<img src="https://img.shields.io/badge/Spring_Data_JPA-0A0E27?style=for-the-badge&logo=spring&logoColor=6DB33F" />
+
+**Frontend**
+
+<img src="https://img.shields.io/badge/HTML5-0A0E27?style=for-the-badge&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-0A0E27?style=for-the-badge&logo=css3&logoColor=2965F1" />
+<img src="https://img.shields.io/badge/JavaScript-0A0E27?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Thymeleaf-0A0E27?style=for-the-badge&logo=thymeleaf&logoColor=005F0F" />
+<img src="https://img.shields.io/badge/Bootstrap-0A0E27?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
+
+**Database**
+
+<img src="https://img.shields.io/badge/MySQL-0A0E27?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/Hibernate-0A0E27?style=for-the-badge&logo=hibernate&logoColor=59666C" />
+
+**Tools**
+
+<img src="https://img.shields.io/badge/Git-0A0E27?style=for-the-badge&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/GitHub-0A0E27?style=for-the-badge&logo=github&logoColor=F4B400" />
+<img src="https://img.shields.io/badge/Maven-0A0E27?style=for-the-badge&logo=apachemaven&logoColor=C71A36" />
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-0A0E27?style=for-the-badge&logo=intellijidea&logoColor=F4B400" />
+<img src="https://img.shields.io/badge/Postman-0A0E27?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+
+</div>
+
 <br/>
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring%20Boot-000000?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
-<img src="https://img.shields.io/badge/Spring%20MVC-000000?style=for-the-badge&logo=spring&logoColor=6DB33F" />
-<img src="https://img.shields.io/badge/Spring%20Data%20JPA-000000?style=for-the-badge&logo=spring&logoColor=6DB33F" />
+
+## Currently Learning / Working On
+
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+**Right now**
+- OTP / Email verification flows
+- Form validation
+- REST APIs & basic API integration
+- Deepening Spring Data JPA & Hibernate
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="50%">
 
-**Database & Tools**
-<br/>
-<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" />
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Maven-000000?style=for-the-badge&logo=apachemaven&logoColor=C71A36" />
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
-
-</td>
-<td valign="top" width="33%">
-
-**Frontend (Supporting)**
-<br/>
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" />
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" />
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Thymeleaf-000000?style=for-the-badge&logo=thymeleaf&logoColor=005F0F" />
+**Up next**
+- Spring Security & JWT
+- Microservices architecture
+- Docker & Kubernetes
+- System Design fundamentals
 
 </td>
 </tr>
 </table>
 
-<br/>
+<div align="center">
 
-<!-- ================= CURRENT FOCUS ================= -->
-## <img src="https://img.shields.io/badge/-Currently%20Working%20On-0A1128?style=flat-square" height="28"/>
+<sub>Also on the roadmap: AWS / Cloud Computing • Redis • Kafka • CI/CD & DevOps • React.js • Advanced SQL & Database Optimization</sub>
 
-```java
-public class CurrentFocus {
-
-    private String building   = "Smart Cafe Ordering System";
-    private String[] stack    = {"Spring Boot", "Spring MVC", "Spring Data JPA", "MySQL"};
-    private String strengthening = "Backend architecture & clean API design";
-    private String goal       = "Java Backend Developer role";
-
-}
-```
+</div>
 
 <br/>
 
-<!-- ================= PROJECTS ================= -->
-## <img src="https://img.shields.io/badge/-Featured%20Project-0A1128?style=flat-square" height="28"/>
+## Featured Project
 
 <div align="center">
 
-<table>
-<tr>
-<td width="100%">
+### Smart Cafe Ordering System
 
-### ☕ Smart Cafe Ordering System
+<img src="https://img.shields.io/badge/Java-0A0E27?style=flat-square&logo=openjdk&logoColor=F4B400" />
+<img src="https://img.shields.io/badge/Spring_Boot-0A0E27?style=flat-square&logo=springboot&logoColor=6DB33F" />
+<img src="https://img.shields.io/badge/Spring_MVC-0A0E27?style=flat-square&logo=spring&logoColor=6DB33F" />
+<img src="https://img.shields.io/badge/Spring_Data_JPA-0A0E27?style=flat-square&logo=spring&logoColor=6DB33F" />
+<img src="https://img.shields.io/badge/Thymeleaf-0A0E27?style=flat-square&logo=thymeleaf&logoColor=005F0F" />
+<img src="https://img.shields.io/badge/MySQL-0A0E27?style=flat-square&logo=mysql&logoColor=4479A1" />
 
-A backend-driven ordering system built to handle cafe menu management, order placement and order processing using a layered Spring Boot architecture with MySQL persistence.
+</div>
 
-<img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring%20Boot-000000?style=flat-square&logo=springboot&logoColor=6DB33F" />
-<img src="https://img.shields.io/badge/Spring%20Data%20JPA-000000?style=flat-square&logo=spring&logoColor=6DB33F" />
-<img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1" />
-<img src="https://img.shields.io/badge/Thymeleaf-000000?style=flat-square&logo=thymeleaf&logoColor=005F0F" />
+A web-based cafe application built with **Java and Spring Boot**. Users can browse and search food items, customize meals, add items to a cart, register with OTP verification, and get food recommendations based on preferences and weather. Includes a full admin panel for managing menu items, users, orders, reviews, and reports.
+
+**Key Features**
+- Browse and search menu items
+- Add, update, and remove items from cart
+- Food customization
+- OTP-based registration
+- User profile management
+- Weather-based food recommendations
+- "What Should I Eat?" smart recommendations
+- Admin panel for menu, users, orders, and reviews
+- Sales and rating reports
+
+<div align="center">
+
+| | |
+|---|---|
+| <img src="assets/admin-dashboard.png" width="100%"/> | <img src="assets/analytics-charts.png" width="100%"/> |
+| <img src="assets/customize-pizza.png" width="100%"/> | <img src="assets/cart-page.png" width="100%"/> |
+| <img src="assets/menu-management.png" width="100%"/> | <img src="assets/reviews-stats.png" width="100%"/> |
+
+<br/>
+
+<a href="https://github.com/ibhaj-dev/Smart-Cafe-Ordering-System" target="_blank">
+  <img src="https://img.shields.io/badge/View_Repository-0A0E27?style=for-the-badge&logo=github&logoColor=F4B400" />
+</a>
+
+</div>
+
+<br/>
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ibhaj-dev&show_icons=true&theme=dark&hide_border=true&bg_color=0A0E27&title_color=F4B400&icon_color=F4B400&text_color=8B9DC3&ring_color=F4B400" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ibhaj-dev&theme=dark&hide_border=true&background=0A0E27&ring=F4B400&fire=F4B400&currStreakLabel=F4B400&sideLabels=8B9DC3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B9DC3" width="48%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ibhaj-dev&theme=react-dark&bg_color=0A0E27&color=F4B400&line=F4B400&point=FFFFFF&hide_border=true" width="98%"/>
+
+</div>
+
+<br/>
+
+## Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/muhammad-ibhaj-2a75a7312" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://x.com/ibhaj80546" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/datboii_ibhaj" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:muhammadibhaj@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-F4B400?style=for-the-badge&logo=gmail&logoColor=0A0E27" />
+</a>
 
 <br/><br/>
 
-<a href="https://github.com/YOUR_USERNAME/YOUR_REPO_NAME">
-  <img src="https://img.shields.io/badge/View%20Repository-0A1128?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- ================= GITHUB STATS ================= -->
-## <img src="https://img.shields.io/badge/-GitHub%20Analytics-0A1128?style=flat-square" height="28"/>
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&bg_color=00000000&title_color=6FA8FF&icon_color=6FA8FF&text_color=E6EDF7&border_color=1B3A6B&hide_border=false" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&bg_color=00000000&title_color=6FA8FF&text_color=E6EDF7&border_color=1B3A6B&hide_border=false" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&background=00000000&stroke=1B3A6B&ring=6FA8FF&fire=6FA8FF&currStreakLabel=E6EDF7&sideLabels=E6EDF7&dates=6C7A93&border=1B3A6B" />
-
-</div>
-
-<br/>
-
-<!-- ================= CONTRIBUTION GRAPH ================= -->
-## <img src="https://img.shields.io/badge/-Contribution%20Activity-0A1128?style=flat-square" height="28"/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=00000000&color=6FA8FF&line=6FA8FF&point=E6EDF7&area=true&hide_border=true" width="100%" />
-
-</div>
-
-<br/>
-
-<!-- ================= CONTACT ================= -->
-## <img src="https://img.shields.io/badge/-Connect%20With%20Me-0A1128?style=flat-square" height="28"/>
-
-<div align="center">
-
-<a href="mailto:YOUR_EMAIL@example.com">
-  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-</a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-</a>
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:11223D,50:0A1128,100:000000&height=120&section=footer" />
-
-<sub>Thanks for stopping by — always open to backend engineering opportunities.</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:0F1C3F,100:0A0E27&height=100&section=footer" width="100%"/>
 
 </div>
