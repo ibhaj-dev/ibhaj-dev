@@ -132,9 +132,9 @@ A web-based cafe application built with **Java and Spring Boot**. Users can brow
 
 | | |
 |---|---|
-| <img src="assets/admin-dashboard.png" width="100%"/> | <img src="assets/analytics-charts.png" width="100%"/> |
+| <img src="assets_admin-dashboard.png" width="100%"/> | <img src="assets/analytics-charts.png" width="100%"/> |
 | <img src="assets/customize-pizza.png" width="100%"/> | <img src="assets/cart-page.png" width="100%"/> |
-| <img src="assets/menu-management.png" width="100%"/> | <img src="assets/reviews-stats.png" width="100%"/> |
+| <img src="assets_admin-menu.png" width="100%"/> | <img src="assets/admin-summarycards.png" width="100%"/> |
 
 <br/>
 
